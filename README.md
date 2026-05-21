@@ -1,0 +1,4 @@
+# techstack
+- tailwind
+- react
+
