@@ -26,7 +26,7 @@
 
 # Note
 
-Gunakan grid-template-areas dengan package https://npmx.dev/package/tailwindcss-grid-template-areas mengikuti Method 1 dan Method 2 dari dokumentasinya. Cukup gunakan versi Browser CDN saja, tidak perlu langkah instalasi lanjutan yaitu Syntax Guide. Masukkan kodenya langsung ke dalam index.html.
+Gunakan grid-template-areas dengan package https://npmx.dev/package/tailwindcss-grid-template-areas mengikuti Method 1 dan Method 2 dari dokumentasinya. Cukup gunakan versi Browser CDN saja, tidak perlu langkah instalasi lanjutan yaitu Syntax Guide. Masukkan kodenya langsung ke dalam index.html..
 
 ```js
 <div className="lg:[grid-template-areas:'box-1_box-1_box-2_box-5''box-3_box-4_box-4_box-5']">
