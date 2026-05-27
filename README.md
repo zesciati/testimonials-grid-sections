@@ -2,6 +2,7 @@
 - tailwind
 - react
 
+```
 └── testimonials grid section/
     └── src/
         ├── index.css
@@ -21,7 +22,7 @@
             ├── image-patrick.jpg
             ├── react.svg
             └── vite.svg
-
+```
 
 # Note
 
