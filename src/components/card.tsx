@@ -1,4 +1,3 @@
-// import ImageDaniel from "../assets/image-daniel.jpg";
 import Testimonials from "../data/testimonials.json";
 
 function card() {
